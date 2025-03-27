@@ -1,4 +1,4 @@
-# The Alter Office URL Shortener
+# I-ZET Payments (Realtime Chat Application)
 
 The Realtime Chat Application Between 2 Users.
 
@@ -36,8 +36,8 @@ To install and run the application locally, follow these steps:
 1. Clone the repository:
 
     ```sh
-    git clone https://github.com//.git
-    cd the-alter-office-url-shortner
+    git clone https://github.com/saravana512/izet-API.git
+    cd izet-API
     ```
 
 2. Install dependencies:
