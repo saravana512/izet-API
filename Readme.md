@@ -19,7 +19,7 @@ The Realtime Chat Application Between 2 Users.
 - **Prettier**: Code formatter for maintaining a consistent code style.
 - **.gitignore**: Pre-configured to exclude sensitive files and directories.
 
-## Database Configuration (PostgreSQL)
+## Database Configuration (MongoDB)
 
 This project uses MongoDB as the database. Below are the required environment variables:
 
