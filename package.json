@@ -11,6 +11,10 @@
 		"local": "nodemon --env-file=.env server.js",
 		"find-circular-deps": "madge . -c"
 	},
+	"engines": {
+		"node": ">=20.0.0",
+		"npm": ">=10.0.0"
+	},
 	"author": "saravana",
 	"license": "ISC",
 	"dependencies": {
